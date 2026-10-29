@@ -1,27 +1,20 @@
 {
-  "name": "ai-website-clone-template",
+  "name": "site-aubert-osteopathe",
   "version": "0.6.1",
   "private": true,
-  "description": "Clone any website into a clean, modern Next.js codebase using AI coding agents",
-  "author": "JCodesMore",
+  "description": "Clone local de la page d'accueil de Charlotte Aubert, ostéopathe à Paris 16",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JCodesMore/ai-website-cloner-template.git"
-  },
-  "homepage": "https://github.com/JCodesMore/ai-website-cloner-template",
-  "bugs": {
-    "url": "https://github.com/JCodesMore/ai-website-cloner-template/issues"
+    "url": "https://github.com/ivankameneff-creator/site-aubert-osteopathe.git"
   },
   "keywords": [
-    "claude-code",
-    "website-clone",
-    "reverse-engineering",
+    "aubert-osteopathe",
+    "osteopathie",
+    "paris-16",
     "nextjs",
-    "ai",
-    "template",
     "tailwindcss",
-    "shadcn-ui"
+    "website"
   ],
   "engines": {
     "node": ">=24"
